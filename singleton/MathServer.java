@@ -1,4 +1,4 @@
-package original;
+package singleton;
 
 import java.rmi.AlreadyBoundException;
 import java.rmi.RemoteException;
